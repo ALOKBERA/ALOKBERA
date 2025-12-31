@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Aryan Patel 👋</h1>
+<h1 align="center">I'm Alok Bera</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-7bcb29a1-85d5-4c3a-8c4f-0b7555c39c60.gif" width="100%">
 
 ## 🚀 About Me
@@ -9,7 +9,7 @@ I'm fascinated by how computers operate and love building things from what I lea
 🤝 Open to collaborating on Open Source Projects  
 💬 Let's connect and talk about:  
 JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHub, DSA, C++, Java, Frontend & Backend Development  
-📫 Reach out to me at aaryanpatel9784@gmail.com  
+📫 Reach out to me at alokbera2005@gmail.com  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
@@ -47,12 +47,6 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&animate=flip)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&animate=flip)
 
-### Game Dev & More
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&animate=flip)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&animate=flip)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&animate=flip)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&animate=flip)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&animate=flip)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
