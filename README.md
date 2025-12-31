@@ -13,11 +13,6 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
-## 📄 Resume
-[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]()
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -47,7 +42,6 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&animate=flip)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&animate=flip)
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
 ## 🌐 Socials
@@ -64,22 +58,3 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&animate=pulse)](https://codeforces.com/profile/AryanPatel)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AryanPatel&theme=dark&date_format=j%20M%5B%20Y%5D&background=45%2C1A1B27%2C4D1B7B&border=FFFFFF&stroke=DDDDDD)](https://git.io/streak-stats)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
-
-### 📈 Weekly Development Breakdown
-
-| Language     | Progress Bar              | Percentage |
-|--------------|---------------------------|------------|
-| **C++**      | `🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦`       | 75%        |
-| **Python**   | `🟪🟪🟪🟪🟪🟪🟪🟪`                | 40%        |
-| **JavaScript**| `🟩🟩🟩🟩🟩🟩🟩`               | 35%        |
-| **All**    | `🟨🟨🟨🟨🟨`                    | 25%        |
