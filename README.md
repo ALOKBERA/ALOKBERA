@@ -1,15 +1,27 @@
 <h1 align="center">I'm Alok Bera</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-7bcb29a1-85d5-4c3a-8c4f-0b7555c39c60.gif" width="100%">
 
-## 🚀 About Me
+### 👋 About Me
 
-I'm fascinated by how computers operate and love building things from what I learn. Coding isn't just a hobby — it's what keeps me up at night! �‍💻
+I am a third-year Computer Science & Engineering student at Nirma University with a strong passion for understanding how systems work and building efficient, scalable solutions. I enjoy turning ideas into code and continuously improving my problem-solving skills through hands-on development.
 
-🌱 Currently diving deep into Data Structures & Algorithms  
-🤝 Open to collaborating on Open Source Projects  
-💬 Let's connect and talk about:  
-JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHub, DSA, C++, Java, Frontend & Backend Development  
-📫 Reach out to me at alokbera2005@gmail.com  
+I am currently focused on strengthening my foundation in Data Structures and Algorithms, while actively exploring real-world applications of software engineering concepts. I have a keen interest in writing clean, maintainable code and learning best practices used in the industry.
+
+I am enthusiastic about open-source collaboration, learning from the developer community, and contributing to meaningful projects that create impact.
+
+### 🔧 What I’m Working On
+
+Mastering Data Structures & Algorithms
+
+Building projects to apply core Computer Science fundamentals
+
+Exploring open-source contributions
+
+### 🤝 Let’s Connect
+
+📧 Email: alokbera2005@gmail.com
+
+💼 Open to collaboration on open-source projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
