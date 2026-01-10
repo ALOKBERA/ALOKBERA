@@ -23,11 +23,10 @@ Exploring open-source contributions
 
 💼 Open to collaboration on open-source projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
-
+<br /><br />
 ## 💻 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,mongodb,mysql,git,github" />
 </p>
 
@@ -49,8 +48,7 @@ Exploring open-source contributions
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&animate=flip)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&animate=flip)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
-
+<br /><br />
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) 
